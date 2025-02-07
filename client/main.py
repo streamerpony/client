@@ -1,0 +1,1 @@
+# 入口脚本，调用 fetcher、processor、uploader
