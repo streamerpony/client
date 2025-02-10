@@ -9,7 +9,7 @@ def main():
         images = fetch_unprocessed_images()
 
         if not images:
-            print("⚠️ 没有未处理的图片")
+            print("🤯 没有未处理的图片")
         else:
             received_ids = []
             for img in images:
